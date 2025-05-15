@@ -65,9 +65,7 @@ This Zoomcamp isn't just a course for me — it's a mission to **build real skil
 
 If you're also learning ML or doing this Zoomcamp, let’s collaborate and share notes!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌐 Personal Site (if any)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bradley-daudi-aa2ab564/)
 
 ---
 
