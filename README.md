@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Zoomcamp 🚀 – My Learning Journey
 
-> **By [Bradley Daudi** | Aspiring Data Scientist | #MLZoomcamp2025  
+> **By Bradley Daudi** | Aspiring Data Scientist | #MLZoomcamp2025  
 > 📘 Guided by [DataTalks.Club](https://datatalks.club/)
 
 ---
