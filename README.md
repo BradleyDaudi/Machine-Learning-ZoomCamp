@@ -1,49 +1,79 @@
-# 🤖 AI Pulse: Real-Time Machine Learning Insights
+# 🧠 Machine Learning Zoomcamp 🚀 – My Learning Journey
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![Made With Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
-![Streamlit](https://img.shields.io/badge/Interactive%20UI-Streamlit-orange)
-
-> 🚀 A futuristic ML dashboard that doesn’t just predict — it **talks back**!  
-> Analyze. Train. Deploy. All from one terminal... or browser.
+> **By Bradley Daudi** | Aspiring Data Scientist | #MLZoomcamp2025  
+> 📘 Guided by [DataTalks.Club](https://datatalks.club/)
 
 ---
 
-## 🎯 What is *AI Pulse*?
+## 🎯 Why I'm Taking This Zoomcamp
 
-**AI Pulse** is an interactive machine learning hub where data scientists can:
-
-- 📊 Upload & visualize datasets in real time
-- 🤖 Train models (AutoML or manual) with intuitive controls
-- 🧠 Watch model performance update live
-- 💬 Chat with the model to understand its logic
-- 🔄 Deploy instantly with Streamlit or Gradio UIs
+Machine learning is reshaping how the world works — from product recommendations to self-driving cars.  
+This Zoomcamp isn't just a course for me — it's a mission to **build real skills**, understand the **ML lifecycle**, and grow into a thoughtful, production-ready data scientist.
 
 ---
 
-## ⚙️ Features That Make Data Scientists Go 🤩
+## 🗓️ Weekly Progress & Takeaways
 
-| Feature             | Description                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| 🔍 Auto Data Profiler | Generates full EDA with pandas profiling, sweetviz, or dtale                |
-| 📈 Model Playground  | Choose models (XGBoost, LightGBM, CatBoost, etc.) with toggle switches      |
-| 🧪 HyperTune Magic   | Optuna-driven hyperparameter tuning in one click                            |
-| 🧬 Explainable AI     | Integrated SHAP & LIME visualization dashboards                            |
-| 💬 Chat to Model     | Ask the model “why” it made a prediction via LangChain interface            |
-| 🌐 Deploy with One Click | Serve via Streamlit/Gradio instantly                                     |
+| Week | Topic | Highlights | Status |
+|------|-------------------------------|-------------------------|--------|
+| ✅ 1 | Introduction + Setup          | Python, Jupyter, VSCode, Pipenv | Completed |
+| ⏳ 2 | Exploratory Data Analysis     | Pandas profiling, missing data handling | Completed |
+| ⏳ 3 | Linear Regression             | OLS, metrics, scikit-learn models | Completed |
+| 🔄 4 | Model Validation              | Train/val/test splits, RMSE, cross-validation | In Progress |
+| ⏳ 5 | Classification                | Logistic regression, confusion matrix | Upcoming |
+| ⏳ 6 | Decision Trees, Random Forest | Feature importance, overfitting | Upcoming |
+| ⏳ 7 | MLOps + Model Deployment      | BentoML, Flask, Docker | Upcoming |
+| ⏳ 8 | Final Project                 | Build, present, and share! | Upcoming |
 
 ---
 
-## 🧑‍💻 Try It Yourself!
+## 🛠️ Key Tools & Libraries I'm Using
 
-> ⚡ Interactive Demo (launches in browser):
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourusername/aipulse/main.py)
+- 🐍 Python
+- 📊 Pandas, NumPy, Matplotlib, Seaborn
+- 🤖 Scikit-learn, XGBoost
+- 🧪 MLflow, Optuna
+- 🐳 Docker, Flask, Streamlit
+- ☁️ AWS/GCP (optional for deployment)
 
-Or clone and run locally:
+---
 
-```bash
-git clone https://github.com/yourusername/aipulse.git
-cd aipulse
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+## ✨ My Favorite Learning Moments
+
+- 📌 **Week 2:** Realizing how much story raw data can tell with just a few visualizations.
+- 🤯 **Week 3:** Seeing a linear regression model go from math to working predictions in minutes.
+- 🚀 **Coming Soon:** Deploying my own model and sharing it with friends in a browser!
+
+---
+
+## 💡 Final Project (Coming Soon)
+
+> **Title**: *Predicting Customer Churn for a Subscription-Based App*
+
+**Goal:** Use classification to predict which users are likely to churn and why.
+
+**Deliverables:**
+- Trained model
+- Streamlit app or API via Flask
+- GitHub repo + blog write-up
+
+---
+
+## 🌱 Let's Connect
+
+If you're also learning ML or doing this Zoomcamp, let’s collaborate and share notes!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bradley-daudi-aa2ab564/)
+
+---
+
+## 📌 Credits
+
+Massive thanks to the [DataTalks.Club](https://datatalks.club) team and instructors for creating such a hands-on, well-structured program.
+
+---
+
+> _“Every model I build teaches me more about the world. Every failure teaches me more about the model.”_  
+> — *Me, learning machine learning*
