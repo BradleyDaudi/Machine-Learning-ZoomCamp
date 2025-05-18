@@ -17,8 +17,8 @@ This Zoomcamp isn't just a course for me — it's a mission to **build real skil
 | Week | Topic | Highlights | Status |
 |------|-------------------------------|-------------------------|--------|
 | ✅ 1 | Introduction + Setup          | Python, Jupyter, VSCode, Pipenv | Completed |
-| ✅ 2 | Exploratory Data Analysis     | Pandas profiling, missing data handling | Completed |
-| ✅ 3 | Linear Regression             | OLS, metrics, scikit-learn models | Completed |
+| ⏳ 2 | Exploratory Data Analysis     | Pandas profiling, missing data handling | Completed |
+| ⏳ 3 | Linear Regression             | OLS, metrics, scikit-learn models | Completed |
 | 🔄 4 | Model Validation              | Train/val/test splits, RMSE, cross-validation | In Progress |
 | ⏳ 5 | Classification                | Logistic regression, confusion matrix | Upcoming |
 | ⏳ 6 | Decision Trees, Random Forest | Feature importance, overfitting | Upcoming |
